@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This script includes two functions that demonstrate using lexical scoping
+## Using these functions, a value can be cached and then returned or set
+## depending on whether it already  has a value
 
 ## The following function allows user to set & get value of matrix, then set 
 ## & get its inverse
